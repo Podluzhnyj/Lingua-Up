@@ -1,4 +1,4 @@
-# LinguaUp
+# Lingua Up
 **Условия:**
 
 * Xamarin
